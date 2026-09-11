@@ -31,7 +31,7 @@ Hệ thống Quản lý Khách sạn (HMS) được thiết kế nhằm số hó
 ---
 
 ## 🔗 3. Liên kết tài nguyên (Project Artifacts & Demos)
--  **Figma Interactive Prototype:** [Trải nghiệm giao diện tương tác trên Figma](https://www.figma.com/proto/xxxx) *(Thay link của bạn)*
+-  **Figma Interactive Prototype:** https://www.figma.com/design/TArx5enZgJXtR4ec91acv5/Figma_Khach?node-id=0-1&t=OLHzgcVehtrc17WZ-1 
 -  **Draw.io Diagrams Workspace:** [Xem chi tiết các sơ đồ quy trình nghiệp vụ](https://app.diagrams.net/xxxx) *(Thay link của bạn)*
 -  **Tài liệu SRS chi tiết (PDF):** [Xem file đặc tả SRS trong thư mục docs/](docs/SRS_Hotel_Management_System.pdf)
 -  **Bộ kịch bản Test Case & UAT:** [Xem bảng kịch bản kiểm thử](docs/TestCases_and_UAT_Checklist.xlsx)
